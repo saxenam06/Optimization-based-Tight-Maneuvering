@@ -1,4 +1,4 @@
-# Optimization based Tight Evasive Maneuvering for Moving Obstacle Collision avoidance and Lane Tracking using CASADI
+# Optimization based Tight Maneuvering for Moving Obstacle Collision avoidance and Lane Tracking using CASADI
 
 
 
