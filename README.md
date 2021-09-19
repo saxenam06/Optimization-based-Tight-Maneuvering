@@ -1,1 +1,1 @@
-# Optimization-based-Tight-Evasive-Maneuvering-for-Moving-obstacle-Collision-avoidance-Lane-Tracking
+# Optimization based Tight Evasive Maneuvering for Moving Obstacle Collision avoidance and Lane Tracking
