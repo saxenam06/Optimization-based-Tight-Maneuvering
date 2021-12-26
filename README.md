@@ -12,4 +12,4 @@ In this repository, I implemented an Optimization based Model predictive control
 3.	A. L., Xiaojing Zhang and F. Borrelli, Optimization-based collision avoidance, arXiv, 2017.
 4.	S. Boyd and L. Vandenberghe. Convex Optimization. Cambridge University Press, 2004. 
 5.	R. Firoozi, Xiaojing Zhang and F. Borrelli, Formation and Reconfiguration of Tight Multi-Lane Platoon, arXiv, 2020
-6.	M. Saxena, Integrated Path Planning and Control for Lane Tracking with Moving obstacle avoidance. https://github.com/saxenam06/Integrated_Planning_Control_NMPC_CASADI/blob/main/Paper_Integrated_Planning_and_Control_for_Lane_Tracking_V1.pdf
+6.	M. Saxena, Integrated Path Planning and Control for Lane Tracking with Moving obstacle avoidance. [Paper](https://github.com/saxenam06/Integrated_Planning_Control_NMPC_CASADI/blob/main/Paper_Integrated_Planning_and_Control_for_Lane_Tracking_V1.pdf)
